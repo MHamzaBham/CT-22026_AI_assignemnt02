@@ -1,4 +1,4 @@
-# AI Assignment 02: Tic-Tac-Toe with Minimax and Alpha-Beta Pruning
+# CT-22026 AI Assignment 02: Tic-Tac-Toe with Minimax and Alpha-Beta Pruning
 
 This project implements a Tic-Tac-Toe game with two AI strategies: **Minimax** and **Alpha-Beta Pruning**. It also includes performance measurement and visualization of the two algorithms.
 
@@ -23,7 +23,7 @@ This project implements a Tic-Tac-Toe game with two AI strategies: **Minimax** a
 4. Follow the on-screen instructions to play the game or view the performance comparison.
 
 ## Video Demonstration
-[![Watch the video](https://via.placeholder.com/640x360.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1qm6AaaMYNVYmr2wJHyCfan7VlPmNvdpV/view?usp=sharing)
+[[Watch the video]](https://drive.google.com/file/d/1qm6AaaMYNVYmr2wJHyCfan7VlPmNvdpV/view?usp=sharing)
 
 ## Notebook Link
 [Google Colab Notebook](https://colab.research.google.com/drive/16coLSgZ4AK57J4SAebzyWHW7ZmmHg-th?usp=sharing).
