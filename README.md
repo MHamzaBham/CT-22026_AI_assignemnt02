@@ -23,7 +23,11 @@ This project implements a Tic-Tac-Toe game with two AI strategies: **Minimax** a
 4. Follow the on-screen instructions to play the game or view the performance comparison.
 
 ## Video Demonstration
-[[Watch the video]](https://drive.google.com/file/d/1qm6AaaMYNVYmr2wJHyCfan7VlPmNvdpV/view?usp=sharing)
+https://github.com/user-attachments/assets/4cf9eed2-84e9-42d5-bd42-d530b10f05fc
+
+
+https://github.com/user-attachments/assets/36fb92f4-6b58-4827-8403-ebcb3d9e07b6
+
 
 ## Notebook Link
 [Google Colab Notebook](https://colab.research.google.com/drive/16coLSgZ4AK57J4SAebzyWHW7ZmmHg-th?usp=sharing).
