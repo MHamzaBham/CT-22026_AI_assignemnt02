@@ -18,7 +18,7 @@ This project implements a Tic-Tac-Toe game with two AI strategies: **Minimax** a
    ```
 3. Run the script:
    ```bash
-   python script_name.py
+   python CT-22026_tictactoe.py
    ```
 4. Follow the on-screen instructions to play the game or view the performance comparison.
 
